@@ -26,9 +26,10 @@ em vez do view-handler default do JSF -->
             <var>msgs</var>
         </resource-bundle>
         <locale-config>
-            <default-locale>fr</default-locale>
+            <default-locale>pt</default-locale>
             <supported-locale>en</supported-locale>
             <supported-locale>pt</supported-locale>
+            <supported-locale>fr</supported-locale>
         </locale-config>
     </application>
 

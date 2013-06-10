@@ -38,7 +38,7 @@ public class LocaleBean {
      */
     public String getLocale() {
         if (locale == null) {
-            return FR;
+            return PT_BR;
         } else {
             return locale;
         }
